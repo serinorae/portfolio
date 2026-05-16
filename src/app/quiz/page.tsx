@@ -258,7 +258,7 @@ export default function Quiz() {
     }
   };
 
-  const restrat = () => {
+  const restart = () => {
     setQuestionIndex(0);
     setScore(0);
     setUserChoice(0);
