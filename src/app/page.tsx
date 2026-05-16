@@ -18,10 +18,10 @@ export default function Home() {
       <div className="z-10 flex h-screen flex-col items-center justify-center gap-8">
         <div className="flex flex-col gap-4 text-center">
           <h1 className="text-4xl font-medium uppercase font-serif">
-            Welcome to Sulica&lsquo;s Webpage
+            Welcome to Sulica&apos;s Webpage
           </h1>
           <p className="text-lg font-serif">
-            I&lsquo;m just a girl with a passion for accounting and computer
+            I&apos;m just a girl with a passion for accounting and computer
             science
           </p>
         </div>

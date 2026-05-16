@@ -22,7 +22,7 @@ export default function AboutMe() {
               A FEW WORDS ABOUT ME
             </p>
             <p className="text-sm font-serif leading-relaxed tracking-wide align-middle whitespace-pre-line px-4">
-              I&lsquo;m an IGCSE student who is currently attending in Institute
+              I&apos;m an IGCSE student who is currently attending in Institute
               of International Professionalisim.
             </p>
             <br></br>
@@ -35,7 +35,7 @@ export default function AboutMe() {
               be frustrating, I see it as an invaluable way to learn new things
               and improve problem-solving abilities.
               <div className="my-4"></div>
-              <p className="text-xl font-serif font-medium">LET'S CONNECT</p>
+              <p className="text-xl font-serif font-medium">LET&apos;S CONNECT</p>
               <div className="bg-pink-300 rounded-lg py-5 w-70 align-bottom">
                 <div className=" flex gap-4 mx-4">
                   <SocialIcon url="https://www.instagram.com/sulicanoble/" />
