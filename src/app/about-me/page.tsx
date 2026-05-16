@@ -39,7 +39,7 @@ export default function AboutMe() {
               <div className="bg-pink-300 rounded-lg py-5 w-70 align-bottom">
                 <div className=" flex gap-4 mx-4">
                   <SocialIcon url="https://www.instagram.com/sulicanoble/" />
-                  <SocialIcon url="https://www.facebook.com/shu.htun.5" />
+                  <SocialIcon url="https://www.linkedin.com/in/shu-ma-wa-win-htun-b7a7aa338/" />
                   <SocialIcon url="https://github.com/serinorae" />
                 </div>
               </div>

@@ -48,12 +48,6 @@ const NavBar = () => {
           </Link>
           <Link
             className="rounded-xl border-4 border-pink-300 px-4 py-2 text-lg font-semibold font-serif text-secondary transition hover:bg-primary hover:text-white"
-            href="/"
-          >
-            Blog
-          </Link>
-          <Link
-            className="rounded-xl border-4 border-pink-300 px-4 py-2 text-lg font-semibold font-serif text-secondary transition hover:bg-primary hover:text-white"
             href="/about-me"
           >
             About Me
